@@ -1,4 +1,4 @@
-package com.part.one;
+package com.part.one.item.one;
 
 import java.util.*;
 

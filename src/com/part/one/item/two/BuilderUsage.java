@@ -1,4 +1,4 @@
-package com.part.two;
+package com.part.one.item.two;
 
 /**
  * Consider a builder when faced with many constructor parameters. Although Telescoping Constructor Pattern can be used
