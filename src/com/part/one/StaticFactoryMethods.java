@@ -1,19 +1,21 @@
+package com.part.one;
+
 import java.util.*;
 
+/**
+ * Consider using static factory methods instead of constructors as these offer
+ * better control over instance creation and improved readability.
+ *
+ * <ul>
+ * <li>Constructors don’t have meaningful names. Static factory methods can have meaningful names</li>
+ * <li>Static factory methods can return the same type that implement</li>
+ * <li>Static factory methods can encapsulate all the logic</li>
+ * <li>so they can be used for moving this additional logic out of constructors.</li>
+ * <li>Static factory methods can be controlled-instanced methods e.g Singleton pattern</li>
+ * </ul>
+ */
 public class StaticFactoryMethods {
 
-    /**
-     * Consider using static factory methods instead of constructors as these offer
-     * better control over instance creation and improved readability.
-     *
-     * <ul>
-     * <li>Constructors don’t have meaningful names. Static factory methods can have meaningful names</li>
-     * <li>Static factory methods can return the same type that implement</li>
-     * <li>Static factory methods can encapsulate all the logic</li>
-     * <li>so they can be used for moving this additional logic out of constructors.</li>
-     * <li>Static factory methods can be controlled-instanced methods e.g Singleton pattern</li>
-     * </ul>
-     */
 
     public static void main(String[] args) {
         // String example
