@@ -3,6 +3,9 @@ package com.part.one.item.three;
 import java.io.ObjectStreamException;
 import java.util.Objects;
 
+/**
+ * Item 3: Enforce the singleton property with a private constructor or an enum type
+ */
 public class SingletonPattern {
 
     public static void main(String[] args) {

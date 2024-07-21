@@ -1,6 +1,7 @@
 package com.part.one.item.four;
 
 /**
+ * Item 4: Enforce noninstantiability with a private constructor
  * Enforce non-instantiability with a private constructor
  */
 public class NonInstantiabilityPrivateConstructor {

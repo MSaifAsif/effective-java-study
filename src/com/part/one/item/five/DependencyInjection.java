@@ -1,5 +1,8 @@
 package com.part.one.item.five;
 
+/**
+ * Item 5: Prefer dependency injection to hardwiring resources
+ */
 public class DependencyInjection {
 
     public static void main(String[] args) {

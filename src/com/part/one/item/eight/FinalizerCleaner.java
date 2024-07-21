@@ -3,6 +3,7 @@ package com.part.one.item.eight;
 import java.lang.ref.Cleaner;
 
 /**
+ * Item 8: Avoid finalizers and cleaners
  * Dont use finalize, Cleaner is another way to do some logic work during GC but still we
  * should not depend on any logic during these methods
  */

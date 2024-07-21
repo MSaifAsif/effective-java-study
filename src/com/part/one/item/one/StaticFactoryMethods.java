@@ -3,6 +3,7 @@ package com.part.one.item.one;
 import java.util.*;
 
 /**
+ * Item 1: Consider static factory methods instead of constructors
  * Consider using static factory methods instead of constructors as these offer
  * better control over instance creation and improved readability.
  *

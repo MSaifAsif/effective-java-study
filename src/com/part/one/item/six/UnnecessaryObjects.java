@@ -1,7 +1,7 @@
-package com.part.one.item.five.six;
+package com.part.one.item.six;
 
 /**
- * Avoid Creating Unnecessary Objects
+ * Item 6: Avoid creating unnecessary objects
  */
 public class UnnecessaryObjects {
     public static void main(String[] args) {

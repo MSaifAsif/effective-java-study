@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
+ * Item 7: Eliminate obsolete object references
  * Holding onto obsolete references constitutes memory leaks in Java.
  * This is also termed as unintentional object retention.
  * <p>

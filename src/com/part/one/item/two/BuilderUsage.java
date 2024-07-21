@@ -1,6 +1,7 @@
 package com.part.one.item.two;
 
 /**
+ * Item 2: Consider a builder when faced with many constructor parameters
  * Consider a builder when faced with many constructor parameters. Although Telescoping Constructor Pattern can be used
  * to create various constructors with the required parameters, it can become cumbersome to maintain all constuctors.
  * Inconsistent state may also be achieved if a object is created first and then individually each and every parameter is set.
