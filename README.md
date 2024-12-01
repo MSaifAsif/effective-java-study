@@ -2,7 +2,7 @@
 
 ## Part 1: Creating and Destroying Objects
 
-[1](src/com/part/one/item/one/ConsiderStaticFactoryMethodsInsteadOfConstructors.java). **Consider static factory methods instead of constructors**: Use static methods for better flexibility and
+1. **Consider static factory methods instead of constructors**: Use static methods for better flexibility and
    readability.
 2. **Consider a builder when faced with many constructor parameters**: Simplify complex object creation using the
    builder pattern.
